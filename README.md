@@ -1,4 +1,4 @@
-# 1.	¿Qué es un Coding Dojo? 
+1.	¿Qué es un Coding Dojo? 
 Un Coding Dojo se refiere a una reunión de programadores para trabajar de manera colaborativa y no competitiva en algún problema o reto de programación durante una cantidad de tiempo extendida. El objetivo de un Coding Dojo es adquirir nuevas habilidades, crear un ambiente acogedor y ser divertido. (Rodríguez, 2011)
 
 2.	Diferencia entre Requerimientos, Criterios de Aceptación y Escenarios de Prueba. Dar ejemplos a partir de un problema distinto a la referencia. 
